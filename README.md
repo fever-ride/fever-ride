@@ -21,7 +21,7 @@ I like owning problems end-to-end, from architecture to deployment. I gravitateÂ
 - **Backend:** Spring Boot, Node.js, Express.js, FastAPI, RESTful API, gRPC, Microservices
 - **Frontend:** React, Next.js, Swift, Tailwind CSS, Redux, TailwindCSS
 - **Databases:** PostgreSQL, MySQL, Redis, MongoDB, DynamoDB, Neo4j, Vector Databases  
-- **AI/ML:** LangGraph, LangChain, RAG, Vector Embeddings, ReAct agents, Prompt engineering
+- **AI:** LangGraph, LangChain, RAG, Vector Embeddings, ReAct agents, Prompt engineering
 - **Cloud & DevOps:** AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD, Linux, Nginx
 - **Testing:** JUnit, Jest, Pytest, Playwright, Selenium, Postman, Integration Testing
 
