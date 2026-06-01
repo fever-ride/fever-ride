@@ -1,6 +1,6 @@
 # Hi, I'm Wendy 👋
 
-CS grad student @ Northeastern University (Vancouver) · Full-stack engineer · Cloud & DevOps · SEO & Digital Marketing
+CS grad student @ Northeastern University · Full-stack engineer · Cloud & DevOps · Marketing Automation
 
 ---
 
