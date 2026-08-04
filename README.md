@@ -27,14 +27,6 @@ I like owning problems end-to-end, from architecture to deployment. I gravitate�
 
 ---
 
-## Currently
-
-- 🎓 MSc Computer Science @ Northeastern University, Vancouver
-- 🧑‍🏫 Teaching Assistant: Fundamentals of Cloud Computing (CS6620)
-- 💼 Looking for Fall 2026 co-op in SDE / Cloud / DevOps
-
----
-
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wendi--zhong-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/wendi-zhong)
