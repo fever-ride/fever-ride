@@ -1,12 +1,12 @@
 # Hi, I'm Wendy 👋
 
-CS grad student @ Northeastern University · AI & Full-stack engineer · Cloud & DevOps · Marketing Automation
+CS grad student @ Northeastern University · Full-stack engineer · Cloud & DevOps
 
 ---
 
 ## What I build
 
-I like owning problems end-to-end, from architecture to deployment. I gravitate toward web development, agentic AI, distributed systems, and things that serve real users.
+I like owning problems end-to-end. I gravitate toward web development, agentic AI, distributed systems, and things that serve real users.
 
 - 🎬 **[The Cinephile's Van](https://www.cinephilesvan.com/)**: A production web app aggregating 70+ weekly indie cinema screenings in Vancouver. React/Next.js frontend, Node.js REST API, automated AI-powered ETL pipeline, deployed on AWS.
 - 🧠 **[Pitchcraft AI](https://github.com/fever-ride/pitchcraft-ai)**: AI proposal automation turning 3-day agency workflows into 30-minute pipelines. 8-agent LangGraph orchestration with 6 human-in-the-loop checkpoints. Multi-layer RAG architecture: campaigns are decomposed into atomic propositions, contextually embedded, and retrieved via per-agent profiles with parent-child expansion. Cross-client knowledge accumulates with every archived project. FastAPI + Next.js + MongoDB + Pinecone.
